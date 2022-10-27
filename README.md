@@ -1,5 +1,5 @@
 # Simple-Search-Engines-Algorithms-Assignment
-Implementation of simple search engines using well known algorithms like (Weighted) PageRank and tf-idf
+Implementation of simple search engines using well known algorithms like (Weighted) PageRank and tf-idf in C.
 
 Assignment specification link below:
 
